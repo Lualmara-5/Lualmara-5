@@ -15,9 +15,8 @@ In this GitHub profile called Lualmara-5 you can find designs for your website w
 
 <!--Redes Sociales-->  
 <div align="center"> 
- <a href="https://www.youtube.com/???" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.tiktok.com/@alejandro_martinez05" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
- <a href="https://www.instagram.com/lualmara_odin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+ <a href="https://www.youtube.com/@DevByLualmara" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+ <a href="https://www.instagram.com/lualmara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
  </div>
 
 <!--Total De contribuciones--> 
