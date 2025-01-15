@@ -20,9 +20,7 @@ In this GitHub profile called Lualmara-5 you can find designs for your website w
  </div>
 
 <!--Total De contribuciones--> 
- <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Lualmara-5&theme=tokyonight_duo&hide_border=true"
-</p>
+<br>
    
 <!--Iconos-->
 <p align="center">
