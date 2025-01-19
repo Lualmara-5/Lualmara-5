@@ -40,8 +40,10 @@ I am a Computer Engineering student, currently halfway through my degree. I am e
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </a>
 
-<h2>Github stats:</h2> 
+<h2>Github stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=Lualmara-5&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Lualmara-5)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualmara-5&layout=compact&theme=tokyonight)](https://github.com/Lualmara-5)
+<div align="center">
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=Lualmara-5&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Lualmara-5 github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualmara-5&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
+</div>
