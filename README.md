@@ -1,38 +1,47 @@
-<!--Titulo @Lualmara-5-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Welcome!👋;I+introduce+myself;I+am+Lualmara) 
+<h1 align="center"><b>Hi , I'm Lualmara </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUxNjN3czgzbWs5dW54cHdqaXdybjIxNW41a2Y4MnZldDd0dDBzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n2ytlxNQLodGM/giphy.gif" 
+width="35px"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/01/32/9f/01329fb113f9698d7e7b1e1f063aa3f7.gif" />
 
-<!--Grafica-->
-# What can you find in this profile? 😸
-In this GitHub profile called Lualmara-5 you can find designs for your website with Html, CSS and JavaScript. <i>I hope the projects are useful for your website and you like them. I would appreciate it if you gave me a ***Star🌟***  if you like any of the projects, that would motivate me to continue, thank you.</i>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lualmara-5&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM5czE2dG55Z3M4dHEwOHEzMWp4Zjh5ZXd5dmtycXhwc3NjdGhlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KE5Wi6aSESsjVpO6vg/giphy.gif" 
+width="25px">&nbsp;***About me***
 
-<!--Habilidades e Informacion--> 
-<div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=Lualmara-5&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Lualmara-5 github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualmara-5&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
-</div>
+I am a Computer Engineering student, currently halfway through my degree. I am expanding my knowledge in front-end development and have plans to delve deeper into databases and back-end development in the near future. My motivation lies in applying technology to improve people's daily lives and developing projects that leave a positive mark.
+- 🌱 I’m currently learning...
+  - JavaScript
+  - SQL Server
+- 👥 I'm excited to collaborate on open source projects.
+- 📩 You can contact me at: <a href="mailto:devbylualmara@gmail.com">devbylualmara@gmail.com</a>
 
-<!--Redes Sociales-->  
-<div align="center"> 
- <a href="https://www.youtube.com/@DevByLualmara" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
- <a href="https://www.instagram.com/lualmara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
- </div>
+<hr>
 
-<!--Total De contribuciones--> 
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+## Check out my Social Media
+
+<a href="https://www.instagram.com/lualmara/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+
+<a href="https://www.youtube.com/@DevByLualmara">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Lualmara-5&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Lualmara-5)
 <br>
-   
-<!--Iconos-->
-<p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
-</p>
-
-<!--COntador de Vistas-->
-<div align="center">
-<br><p align="centre"><b>Visitors Count 🐱 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lualmara-5}/count.svg" /></p> 
-<br>
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualmara-5&layout=compact&theme=tokyonight)](https://github.com/Lualmara-5)
